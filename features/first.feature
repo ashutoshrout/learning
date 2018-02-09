@@ -4,6 +4,7 @@ Feature: Showcase the simplest possible Cucumber scenario
   I should be able to run this scenario and see that the steps pass (green like a cuke)
  
   Scenario: Cutting vegetables
+    
     Given a cucumber that is 30 cm long
     When I cut it in halves
     Then I have two cucumbers
