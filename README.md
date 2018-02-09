@@ -1,5 +1,4 @@
-# learning
+# audio book collection manager acceptance tests
 
-Hi All,
-
-Trying to learn github.
+This project contains the examples for a blog post about cucumber (which is not
+even published at the time of writing).
